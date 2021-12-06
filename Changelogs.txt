@@ -1,0 +1,7 @@
+Current Version: 1.0 (6/12/2021)
+
+-Fixed Bugs
+-Improved stability
+-Improved injector
+-New Injector Made By Quack
+-Works On Most Games
